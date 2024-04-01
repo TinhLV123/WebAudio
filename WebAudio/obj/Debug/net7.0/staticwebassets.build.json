@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "pjMfbXspBOVh3/C3wWteTAZ/FIa0gtpuEdPUut9c7pI=",
+  "Source": "WebAudio",
+  "BasePath": "_content/WebAudio",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebAudio\\wwwroot",
+      "Source": "WebAudio",
+      "ContentRoot": "D:\\LacHong\\WebAudio\\WebAudio\\wwwroot\\",
+      "BasePath": "_content/WebAudio",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\LacHong\\WebAudio\\WebAudio\\wwwroot\\uploads\\HenUocTuHuVo.mp3",
+      "SourceId": "WebAudio",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\LacHong\\WebAudio\\WebAudio\\wwwroot\\",
+      "BasePath": "_content/WebAudio",
+      "RelativePath": "uploads/HenUocTuHuVo.mp3",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\HenUocTuHuVo.mp3"
+    }
+  ]
+}
